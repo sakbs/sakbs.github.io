@@ -1,0 +1,24 @@
+body{
+    color: rgb(214, 214, 228);
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header{
+    height: 80px;
+    padding: 80px;
+    margin: 1px;
+    background-image: url(./imagenes/BAN1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.style1{background-color: rgb(23, 21, 114);
+        padding: 36px;
+    }
+.style2{background-color: rgb(15, 25, 163);
+        padding: 36px;
+              
+}
+.style3{background-color:rgb(23, 21, 114);
+        padding: 36px;    
+    }
+   

@@ -1,0 +1,88 @@
+.header{
+    display: flex;
+    justify-content: space-evenly; 
+    text-align: center;  
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    width: 100%;
+    height: 43px;
+    border: 0px;
+    margin: 0;
+    }
+    .main{
+        display: flex;
+        justify-content: space-between;
+        height: 100%;
+        
+        
+    }
+    .section{
+        background-color: black;
+        display: flex;
+        justify-content: space-between;
+        padding: 5em;
+        gap:40px;
+    }
+    .article{
+        width: 200px;
+        background-color: black;
+        color: white;
+        }
+    .letra{
+        color: white;
+        font-family: 'Courier New', Courier, monospace;
+       
+    }
+    .seccion{
+        background-color: rgb(24, 12, 2);
+        display: flex;
+        justify-content: center;
+        
+        padding: 20PX;
+    } 
+    .seccion2{
+        background-color: rgb(24, 12, 2);
+        display: flex;
+        justify-content: space-evenly;
+        height: 5px;
+        
+
+    }   
+    .fa-eye{
+        font-size: 57px;
+        color: white;
+    }
+    .fa-hand-peace{
+        font-size: 57px;
+        color: white;
+    }
+    .fa-paintbrush{
+        font-size: 57px;
+        color: white;
+    }
+    .seccion3{
+        background-color: rgb(24, 12, 2);
+        display: flex;
+        justify-content: space-evenly;
+        padding: 54px;
+    }
+    .seccion4{
+        background-color: black;
+        display: flex;
+        justify-content: space-around;
+        padding: 30px;
+       
+        
+    }
+    .imag{
+        width: 316px;
+        height: 202px;
+    }
+    .footer{
+        background-color: rgb(61, 54, 48);
+        display: flex;
+        justify-content: center;
+        
+
+    }
